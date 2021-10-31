@@ -18,11 +18,11 @@
                             <li>Step up the front-end more, likely add a framework like Vuetify. Bootstrap does the trick for the low-key look,
                                 but for me personally, maybe it's a bit too low-key?
                             </li>
+                            <li>I'd likely add Vuex and a proper DB and Model structure, having the converted results disappear every time you click on a 
+                                different tab is not the most user friendly thing.
+                            </li>
                             <li>If this was a proper project, I'd add unit/automated tests.</li>
                         </ol>
-                        <!-- Hi, I'm Abdu Dafiri. This is my version of a very basic CSV to Text converter using Vue.js and Laravel.
-                        Make sure to check my <a href="https://github.com/ADafiri/BasicCsvConverter" target=_blank>GitHub repo</a> 
-                        for what my future improvements would be. Have a good day! -->
                     </div>
                 </div>
             </div>
